@@ -59,8 +59,3 @@ This project presents a **data-driven approach** for early detection and analysi
 - Soham Raut
 - Srajan Kewat
 - Sohel Bhongade
-
-- **All PCA models and plots in this project were created using SIMCA.**
-- For code-based preprocessing, Python (with pandas and scikit-learn) was used prior to SIMCA import[1][2].
-
-*For further details, refer to the project documentation and SIMCA project files.*
